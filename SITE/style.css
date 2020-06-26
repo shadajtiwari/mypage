@@ -1,3 +1,8 @@
+@-ms-viewport{
+  width: device-width;
+overflow-x: hidde
+}
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -46,12 +51,15 @@ li a:hover:not(.active) {
 }
 
 #nav-bar{
-	background-image: url(b5.jpg);
+	/*background-image: url(b5.jpg);
+	*/
+	background-image: linear-gradient(to left top, #3f8342, #00906b, #009a95, #00a1bb, #21a6d6, #42a1df, #649ae3, #8492e1, #897fd9, #936bcd, #9e53bd, #a834a8);
 	background-repeat: no-repeat;
 	background-size: 120%;
 	padding: -20px;
 	margin: 0;
 	font-size: 18px;
+	height: 750px;
 }
 
 
@@ -130,7 +138,7 @@ li a:hover:not(.active) {
   height: 500px;
 
 }
-
+/*
 #skillslogo{
 	height: 70px;
 	width: 70px;
@@ -138,7 +146,7 @@ li a:hover:not(.active) {
 	top: 53px;
 	left: 41%;
 }
-
+*/	
 #ski{
 	height: 1000px;
 }
@@ -255,8 +263,8 @@ li a:hover:not(.active) {
     opacity: 0.7;
 }
 
-.fa-google {
-  background: #dd4b39;
+.fa-linkedin {
+  background: #007bb5;
   color: white;
 }
 
