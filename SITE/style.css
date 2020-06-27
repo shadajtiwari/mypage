@@ -134,52 +134,38 @@ li a:hover:not(.active) {
   top: 80px;
 
 }
-/*
-#skillslogo{
-	height: 70px;
-	width: 70px;
-	position: relative;
-	top: 53px;
-	left: 41%;
-}
-*/	
+
 #ski{
 	height: 1000px;
 }
 
-#llogo{
-	position: relative;
-	left: 505px;
-	top: 60px;
-}
-
 #htmll{
-	height: 130px;
-	width: 150px;
-	border-radius: 20%;
-}
-
-#cssa{
-	height: 130px;
-	width: 120px;
-	border-radius: 20%;
-}
-
-#bta{
-	height: 120px;
-	width: 120px;
-	border-radius: 20%;
-}
-
-#cp{	
-	height: 120px;
+	height: 90px;
 	width: 110px;
 	border-radius: 20%;
 }
 
+#cssa{
+	height: 90px;
+	width: 85px;
+	border-radius: 20%;
+}
+
+#bta{
+	height: 90px;
+	width: 90px;
+	border-radius: 20%;
+}
+
+#cp{	
+	height: 90px;
+	width: 80px;
+	border-radius: 20%;
+}
+
 #pyt{
-	height: 120px;
-	width: 120px;
+	height: 90px;
+	width: 90px;
 	border-radius: 20%;
 }
 
