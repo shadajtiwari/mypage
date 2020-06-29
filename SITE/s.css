@@ -1,0 +1,15 @@
+body{margin: 0;}
+
+#home{
+	height: 600px;
+	background-color: #f4f6ff;
+}
+
+#p1{
+	height: 90px;
+	background-color: #ffcb74;
+}
+
+#pcont{
+	font-size: 35px;
+}
