@@ -1,5 +1,6 @@
-body {
-	width: fit-content;
+html {
+	margin: 0px;
+	padding: 0px;
     overflow-x: hidden;  
 }
 
@@ -62,7 +63,7 @@ body {
 }
 
 #about{
-	height: 670px;
+	
 	background-color: #f5f5f0;
 }
 
