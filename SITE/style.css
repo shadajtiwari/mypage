@@ -3,14 +3,6 @@ body {
     overflow-x: hidden;  
 }
 
-#mainpage{	
-	height: 690px;
-	
-	background-size: cover;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-
-}
 #do {
 	position: relative;
 	top: -350px;
