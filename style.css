@@ -1,7 +1,7 @@
 html {
 	margin: 0px;
 	padding: 0px;
-    overflow-x: hidden;  
+    overflow-x: hidden;
 }
 
 #do {
@@ -201,12 +201,12 @@ color: white;
 
 ::-webkit-scrollbar
 {
-	width: 9px;
+	width: 7px;
 }
 
 ::-webkit-scrollbar-thumb
 {
-	background: #969c94;
+	background: #e4e4e4;
 	border-radius: 5px;
 }
 
