@@ -210,26 +210,19 @@
 new WOW().init();  
 
 $(document).ready(function(){
-  // Add smooth scrolling to all links in navbar + footer link
   $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
-    // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {
-      // Prevent default anchor click behavior
       event.preventDefault();
 
-      // Store hash
       var hash = this.hash;
-
-      // Using jQuery's animate() method to add smooth page scroll
-      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
-      $('html, body').animate({
+ $('html, body').animate({
         scrollTop: $(hash).offset().top
       }, 900, function(){
    
-        // Add hash (#) to URL when done scrolling (default click behavior)
+      
         window.location.hash = hash;
       });
-    } // End if
+    } 
   });
   
   $(window).scroll(function() {
@@ -244,7 +237,7 @@ $(document).ready(function(){
   });
 })
 
-//made by vipul mirajkar thevipulm.appspot.com
+
 var TxtType = function(el, toRotate, period) {
         this.toRotate = toRotate;
         this.el = el;
@@ -295,7 +288,7 @@ var TxtType = function(el, toRotate, period) {
               new TxtType(elements[i], JSON.parse(toRotate), period);
             }
         }
-        // INJECT CSS
+        
         var css = document.createElement("style");
         css.type = "text/css";
         css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
