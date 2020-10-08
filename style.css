@@ -172,9 +172,10 @@ color: white;
   color: white;
 }
 
-.fa-facebook {
-  background: #3B5998;
-  color: white;
+.fa-whatsapp {
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
 }
 
 #pne:hover{
