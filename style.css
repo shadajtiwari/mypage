@@ -52,11 +52,8 @@ html {
 	top: 120px;
 }
 
-#abt{
-	font-family: 'Athiti', sans-serif;
-	font-size: 26px;
-}
 
+  
 .vl {
   border-left: 2px solid gray;
   height: 450px;
@@ -110,7 +107,6 @@ html {
 	font-family: 'Marvel', sans-serif;
 	font-size: 48px;
 	height: 90px;
-	background-color: #f5f5f0;
 }
 
 #promobanner{
@@ -154,34 +150,6 @@ html {
     text-decoration: none;
 }
 
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-
-.fa-instagram {
-	background: #f09433; 
-background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
-background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-color: white;
-}
-
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
-
-.fa-envelope {
-  background: #60a0d1;
-  color: white;
-}
-
-#whatsapplogo {
-	background-color:#25d366;
-	color:#FFF;
-	border-radius:50px;
-}
 
 #pne:hover{
 	opacity: 0.7;
@@ -198,7 +166,7 @@ color: white;
 
 ::-webkit-scrollbar
 {
-	width: 7px;
+	width: 6px;
 }
 
 ::-webkit-scrollbar-thumb
