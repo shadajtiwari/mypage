@@ -48,6 +48,13 @@ html {
 	transition: 0.7s;
 }
 
+#more-about-me-btn:hover{
+	color: white;
+	background: #0b0c10;
+	border: 3px solid #28af77ec;
+	transition: 0.7s;
+}
+
 #do {
 	position: relative;
 	top: -350px;
