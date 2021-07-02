@@ -6,7 +6,7 @@ html {
 
 #know-more-btn{
 	text-align: center;
-	border: 3px solid #66fcf1;
+	border: 3px solid #39A2DB;
 	background: none;
 	padding: 10px;
 	font-size: 15px;
@@ -16,15 +16,15 @@ html {
 
 #know-more-btn:hover{
 	color: white;
-	background: #45a29e;
-	border: 3px solid #45a29e;
+	background: #247aa8;
+	border: 3px solid #247aa8;
 	transition: 0.7s;
 }
 
 #get-in-touch-btn{
 	text-align: center;
-	border: 3px solid #c5c6c7;
-	background: #c5c6c7;
+	border: 3px solid #E8F0F2;
+	background: #E8F0F2;
 	padding: 10px;
 	font-size: 15px;
 	color: #0b0c10;
@@ -40,7 +40,7 @@ html {
 
 #more-about-me-btn{
 	text-align: center;
-	border: 3px solid #63f1e8ec;
+	border: 3px solid #39A2DB;
 	background: none;
 	padding: 10px;
 	font-size: 15px;
@@ -50,8 +50,8 @@ html {
 
 #more-about-me-btn:hover{
 	color: white;
-	background: #0b0c10;
-	border: 3px solid #28af77ec;
+	background: #2e88b8;
+	border: 3px solid #247aa8;
 	transition: 0.7s;
 }
 
@@ -60,7 +60,7 @@ html {
 	top: -350px;
 	left: 0px;
   	background-color: none;
-  	color: /*#3399ff*/ 	/*#7e8eeb*/  #0275d8;
+  	color: /*#3399ff*/ 	/*#7e8eeb*/  #247aa8;
  	padding-top:10em;
   	text-decoration: none;
   	font-family: 'Life Savers', cursive;
